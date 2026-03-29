@@ -2,34 +2,39 @@ name: Pages
 on:
   push:
     branches:
-      - main   # 你的默认分支
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Use Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: "22"
 
-      - name: Cache NPM dependencies
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+          run_install: false
+
+      - name: Cache pnpm store
         uses: actions/cache@v4
         with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
+          path: ~/.local/share/pnpm/store
+          key: ${{ runner.os }}-pnpm-store
           restore-keys: |
-            ${{ runner.OS }}-npm-cache
+            ${{ runner.os }}-pnpm-store
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
-      - name: Build
-        run: npm run build   # Hexo 默认 build = hexo generate
+      - name: Build Hexo
+        run: pnpm run build   # build = hexo generate
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
