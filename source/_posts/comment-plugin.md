@@ -1,7 +1,7 @@
 ---
 title: 评论区插件
 date: 2026-03-28 23:54
-cover: /hexo-theme-linen-doc-zh-CN/img/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg
+cover: /img/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg
 coverInfo: 
   author: Volodymyr Hryshchenko
   url: https://unsplash.com/photos/three-crumpled-yellow-papers-on-green-surface-surrounded-by-yellow-lined-papers-V5vqWC9gyEU

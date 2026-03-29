@@ -1,7 +1,7 @@
 ---
 title: Banner 位文章
 date: 2026-03-28 23:57
-cover: /hexo-theme-linen-doc-zh-CN/img/vackground-com-hDQ-dUjQN8E-unsplash.jpg
+cover: /img/vackground-com-hDQ-dUjQN8E-unsplash.jpg
 coverInfo: 
   author: vackground.com
   url: https://unsplash.com/photos/a-blue-and-white-abstract-background-with-hexagonal-shapes-hDQ-dUjQN8E
@@ -14,7 +14,7 @@ tocType: flat
 
 效果如下图：
 
-![](/hexo-theme-linen-doc-zh-CN/img/banner-posts.jpg)
+![](/img/banner-posts.jpg)
 
 在 `_config.linen.yml` 中加入如下格式的内容即可：
 

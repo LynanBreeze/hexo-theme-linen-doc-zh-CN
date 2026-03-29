@@ -3,7 +3,7 @@ title: 个性化配置
 date: 2026-03-28 23:58
 excerpt: 配置您站点的个性化设置。
 categories: 快速开始
-cover: /hexo-theme-linen-doc-zh-CN/img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg
+cover: /img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg
 coverInfo: 
   author: Markus Winkler
   url: https://unsplash.com/photos/a-close-up-of-a-street-sign-on-the-ground-newg0EE_rxw
@@ -18,7 +18,7 @@ tocType: flat
 
 ```yaml _config.linen.yml
 logo:
-  src: '/hexo-theme-linen-doc-zh-CN/img/linen-logo.svg'
+  src: '/img/linen-logo.svg'
   width: 225
   height: 42
 ```
