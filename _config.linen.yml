@@ -1,0 +1,16 @@
+version: 1.0.0
+logo:
+  src: '/img/linen-logo.svg'
+  width: 225
+  height: 42
+info:
+  site_desc: 一个简约的 Hexo 主题.
+  registration: 火星ICP备222222号
+navItems:
+  - name: 归档
+    path: /archives/
+topArticles:
+  - _posts/quick-start.md
+  - _posts/customization.md
+  - _posts/write-with-markdown.md
+  - _posts/image-grid.md
