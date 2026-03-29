@@ -2,7 +2,7 @@
 title: 文章配置
 excerpt: 一些自定义的 Front Matter 配置。
 date: 2026-03-28 23:53
-cover: /img/freestocks-VFs2fZEVkXo-unsplash.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/freestocks-VFs2fZEVkXo-unsplash.jpg
 coverInfo: 
   author: freestocks
   url: https://unsplash.com/photos/top-view-of-opened-magazine-near-up-of-coffee-VFs2fZEVkXo

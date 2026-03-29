@@ -1,7 +1,7 @@
 ---
 title: 网站 RSS
 date: 2026-03-28 23:56
-cover: /img/markus-winkler-GdpDAj8unB4-unsplash.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/markus-winkler-GdpDAj8unB4-unsplash.jpg
 coverInfo: 
   author: Markus Winkler
   url: https://unsplash.com/photos/a-wooden-block-spelling-subscribe-on-a-table-GdpDAj8unB4

@@ -1,7 +1,7 @@
 ---
 title: 评论区插件
 date: 2026-03-28 23:54
-cover: /img/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg
 coverInfo: 
   author: Volodymyr Hryshchenko
   url: https://unsplash.com/photos/three-crumpled-yellow-papers-on-green-surface-surrounded-by-yellow-lined-papers-V5vqWC9gyEU
@@ -42,10 +42,10 @@ comment:
    然后，在”认证回调地址“(Authorization callback URL)填写你的博客的根URL地址。
    点击“注册应用”(Register application)按钮来跳转到应用详情界面。
 
-    <img style="max-width: 500px;" alt='注册OAuth应用 - GitHub" "注册OAuth应用 - GitHub' src="/img/gitalk-register-application.jpg">
+    <img style="max-width: 500px;" alt='注册OAuth应用 - GitHub" "注册OAuth应用 - GitHub' src="/hexo-theme-linen-doc-zh-CN/img/gitalk-register-application.jpg">
 
 2. 复制”Client ID“与”Client Secret“的值并填入主题配置的相应配置项中。
-    <img style="max-width: 500px;" alt='OAuth应用设置 - GitHub" "OAuth应用设置 - GitHub' src="/img/gitalk-application-settings.jpg">
+    <img style="max-width: 500px;" alt='OAuth应用设置 - GitHub" "OAuth应用设置 - GitHub' src="/hexo-theme-linen-doc-zh-CN/img/gitalk-application-settings.jpg">
 
    例如，对于下面的”Client ID“和”Client Secret“：
 

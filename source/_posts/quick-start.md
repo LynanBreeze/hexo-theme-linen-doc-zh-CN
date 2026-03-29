@@ -3,7 +3,7 @@ title: 快速开始
 date: 2026-03-28 23:59
 excerpt: 欢迎使用 Linen —— 一个简约、优雅的 Hexo 主题。请跟随本文档快速配置 Linen 主题。
 categories: 快速开始
-cover: /img/markus-winkler-newg0EE_rxw-unsplash.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/markus-winkler-newg0EE_rxw-unsplash.jpg
 coverInfo: 
   author: Markus Winkler
   url: https://unsplash.com/photos/a-close-up-of-a-street-sign-on-the-ground-newg0EE_rxw

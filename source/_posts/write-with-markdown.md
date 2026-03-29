@@ -3,7 +3,7 @@ title: Markdown 语法
 date: 2026-03-28 22:00
 excerpt: 一些 Markdown 语法示例。
 appendRawMarkdown: true
-cover: /img/markus-spiske-mygLDe2KvSg-unsplash.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/markus-spiske-mygLDe2KvSg-unsplash.jpg
 coverInfo:
   author: Markus Spiske
   url: https://unsplash.com/photos/a-white-wall-with-a-clock-on-it-mygLDe2KvSg

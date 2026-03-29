@@ -3,7 +3,7 @@ title: 示例文章
 date: 2026-03-29
 excerpt: 一篇用于展示排版的示例文章。
 tags: [示例, 排版]
-cover: /img/photo-1738165170747-ecc6e3a4d97c.jpg
+cover: /hexo-theme-linen-doc-zh-CN/img/photo-1738165170747-ecc6e3a4d97c.jpg
 appendRawMarkdown: true
 ---
 
@@ -49,8 +49,8 @@ var c = 3;
 
 
 :::image-grid r73 
-![](/img/photo-1763688506579-93d126d41ebf.jpg)
-![](/img/photo-1763917695032-cd494f8839cc.jpg)
+![](/hexo-theme-linen-doc-zh-CN/img/photo-1763688506579-93d126d41ebf.jpg)
+![](/hexo-theme-linen-doc-zh-CN/img/photo-1763917695032-cd494f8839cc.jpg)
 :::
 
 ## 第三部分
@@ -68,6 +68,6 @@ var c = 3;
 
 这一部分用于展示另一段示例文本。通过不同长度的段落，可以观察主题在多段落场景下的表现。
 
-![](/img/aaron-burden-CKlHKtCJZKk-unsplash.jpg)
+![](/hexo-theme-linen-doc-zh-CN/img/aaron-burden-CKlHKtCJZKk-unsplash.jpg)
 
 你可以在这里加入说明、示例、注意事项或其他内容。文本本身不具备实际意义，仅用于占位与排版展示。
