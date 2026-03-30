@@ -1,4 +1,7 @@
 version: 1.0.0
+siteOriginLocaleMap:
+  zh-CN: https://lynanbreeze.github.io/hexo-theme-linen-doc-zh-CN/
+  en: https://lynanbreeze.github.io/hexo-theme-linen-doc/
 info:
   site_desc: 一个简约的 Hexo 主题.
   github: https://github.com/LynanBreeze/hexo-theme-linen-doc-zh-CN
