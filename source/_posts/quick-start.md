@@ -41,4 +41,4 @@ tocType: flat
 
 ## 个性化配置
 
-继续阅读 [**下一篇文章**](/customization/) 了解如何进行一些个性化配置。
+继续阅读 [**下一篇文章**](/hexo-theme-linen-doc-zh-CN/customization/) 了解如何进行一些个性化配置。
