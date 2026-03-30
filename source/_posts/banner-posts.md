@@ -8,6 +8,7 @@ coverInfo:
 series: 用户指南
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 在站点首页顶部位置可以配置 1 大 3 小 共计 4 篇 Banner 位置的文章。

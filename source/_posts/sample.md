@@ -5,6 +5,7 @@ excerpt: 一篇用于展示排版的示例文章。
 tags: [示例, 排版]
 cover: /img/photo-1738165170747-ecc6e3a4d97c.jpg
 appendRawMarkdown: true
+translations: ['en']
 ---
 
 ## 第一部分

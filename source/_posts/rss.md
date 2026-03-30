@@ -8,6 +8,7 @@ coverInfo:
 series: 用户指南
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 无需另外安装插件，默认可生成 RSS 文件。

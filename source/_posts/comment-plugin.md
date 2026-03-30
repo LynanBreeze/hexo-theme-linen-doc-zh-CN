@@ -8,6 +8,7 @@ coverInfo:
 series: 用户指南
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 主题使用 [gitalk](https://github.com/gitalk/gitalk)。

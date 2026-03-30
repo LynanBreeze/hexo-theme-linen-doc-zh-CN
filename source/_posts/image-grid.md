@@ -9,6 +9,7 @@ coverInfo:
 series: 用户指南
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 Markdown 默认的图片是一行一张。

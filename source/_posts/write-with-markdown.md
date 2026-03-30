@@ -8,6 +8,7 @@ coverInfo:
   author: Markus Spiske
   url: https://unsplash.com/photos/a-white-wall-with-a-clock-on-it-mygLDe2KvSg
 toc: false
+translations: ['en']
 ---
 
 感谢 [The Markdown Guide](https://www.markdownguide.org)！

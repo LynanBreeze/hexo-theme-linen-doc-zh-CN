@@ -10,6 +10,7 @@ coverInfo:
 series: 用户指南
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 ## 配置顶部 Logo

@@ -13,6 +13,7 @@ customComments:
   - text: 比如这里：
     index: 0
     comment: 看到悬浮文案了吗
+translations: ['en']
 ---
 
 ## 封面信息
