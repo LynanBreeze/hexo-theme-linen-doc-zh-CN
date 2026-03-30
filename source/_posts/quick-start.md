@@ -35,7 +35,7 @@ translations: ['en']
 
 2. 直接克隆主题文件到 Hexo 主题目录
 
-    ```bash
+    ```bash git clone
     git clone https://github.com/LynanBreeze/hexo-theme-linen.git
     ```
     然后在 Hexo 项目配置文件 `_config.yml` 中配置 `theme: hexo-theme-linen` 。重新启动 Hexo 项目，即可启用 Linen 主题。
