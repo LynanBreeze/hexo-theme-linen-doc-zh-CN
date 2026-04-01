@@ -23,9 +23,9 @@ translations: ['en']
 
 现有的 Hexo 项目或者使用 https://hexo.io/docs/ 新建一个 Hexo 项目。Hexo 版本 `"^8.1.1"`。
 
-你可以通过以下两种方式来使用 Linen 主题：
+你可以通过以下几种方式来使用 Linen 主题：
 
-1. 通过 NPM 安装
+1. **通过 npm 安装**
 
     ```bash npm install
     npm install hexo-theme-linen -S
@@ -33,12 +33,18 @@ translations: ['en']
 
     然后在 Hexo 项目配置文件 `_config.yml` 中配置 `theme: linen` 。重新启动 Hexo 项目，即可启用 Linen 主题。
 
-2. 直接克隆主题文件到 Hexo 主题目录
+2. **直接克隆主题文件到 Hexo 主题目录**
 
     ```bash git clone
     git clone https://github.com/LynanBreeze/hexo-theme-linen.git
     ```
     然后在 Hexo 项目配置文件 `_config.yml` 中配置 `theme: hexo-theme-linen` 。重新启动 Hexo 项目，即可启用 Linen 主题。
+
+3. **直接克隆本文档站点源码修改使用**
+
+    ```bash git clone
+    git clone https://github.com/LynanBreeze/hexo-theme-linen-doc-zh-CN.git
+    ```
 
 ## 个性化配置
 

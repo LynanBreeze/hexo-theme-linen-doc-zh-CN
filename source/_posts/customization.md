@@ -13,7 +13,7 @@ tocType: flat
 translations: ['en']
 ---
 
-## 配置顶部 Logo
+## 顶部 Logo
 
 在站点根目录编辑（如果没有，则需要新建一个）`_config.linen.yml` 文件，然后在文件中加入如下格式的内容：
 
@@ -26,7 +26,7 @@ logo:
 
 请将 src、width、height 替换为对应 logo 图片文件的路径和尺寸。
 
-## 配置顶部导航菜单
+## 顶部导航菜单
 
 在 `_config.linen.yml` 中加入如下格式的内容：
 
@@ -42,11 +42,15 @@ navItems:
 
 ```yaml _config.linen.yml
 info:
-  site_desc: Live Young n Act Now.
+  site_desc: 一个简约的 Hexo 主题.
   avatar: https://xxx.xxx/xx.jpg
   siteCardBg: https://xxx.xxx/xx.jpg
   registration: 火星ICP备22222222
 ```
+
+比如如果需要设置头像图片，添加/修改 `info` 里的 `avatar` 字段即可。可以在 https://unsplash.com/s/illustrations/avatar?license=free 上找到一些不错的头像图片。
+
+`siteCardBg` 是分享网站时展示的封面图片。
 
 ## 懒加载配置
 
@@ -73,6 +77,8 @@ heads:
   - <script src="/path-to/your-js.js"></script>
   - <link rel="stylesheet" href="/path-to/your-css.css">
 ```
+
+用途：统计代码、添加自定义 CSS。
 
 ## 中英域名
 
