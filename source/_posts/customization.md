@@ -59,14 +59,16 @@ info:
 ```yaml _config.linen.yml
 lazyload: 
   enable: true,
-  loadingImage: "../img/lazyload/loading.svg", // 自定义的 loading 图片
-  errorTipImage: "../img/lazyload/error-tip.svg", // 自定义的 Error 图片
+  loadingImage: "/linen-theme/img/lazyload/loading.svg", // 自定义的 loading 图片
+  errorTipImage: "/linen-theme/img/lazyload/error-tip.svg", // 自定义的 Error 图片
   intersectionRatio: 0.25, // 触发加载的图片比例
   placeholderRatio: 3 / 2, // 默认的占位图比例
   showTransition: true, // 是否需要过度动画
   showAltText: true, // 是否展示 Alt 文字到图片下方
   preloadCount: 5 // 预加载的图片数量
 ```
+
+以上参数为默认值，可根据实际需要进行修改。
 
 ## 追加 CSS、脚本到 heads
 
