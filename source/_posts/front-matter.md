@@ -7,6 +7,7 @@ coverInfo:
   author: freestocks
   url: https://unsplash.com/photos/top-view-of-opened-magazine-near-up-of-coffee-VFs2fZEVkXo
 series: 用户指南
+tags: [快速开始, 配置]
 appendRawMarkdown: true
 tocType: flat
 customComments:
@@ -98,3 +99,13 @@ lazyload:
 - `![This is a image $no-lazy](https://abc.com/def.jpg)`
 
 - `<img no-lazy src="https://abc.com/def.jpg" alt="def">`
+
+## 相关文章
+
+当文章含有 >=2 个相同的标签时，则认为它们是相关的，会在页面底部展示跳转入口。
+
+如果想要不展示这篇文章下面的相关文章入口，在文章的 Front Matter 中添加这个配置：
+
+```yaml
+showRelated: false
+```

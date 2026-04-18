@@ -6,6 +6,7 @@ coverInfo:
   author: vackground.com
   url: https://unsplash.com/photos/a-blue-and-white-abstract-background-with-hexagonal-shapes-hDQ-dUjQN8E
 series: 用户指南
+tags: [快速开始, 配置]
 appendRawMarkdown: true
 tocType: flat
 translations: ['en']

@@ -7,6 +7,7 @@ coverInfo:
   author: Ivan Shimko
   url: https://unsplash.com/photos/three-beach-illustrations-PhciG8fpRKw
 series: 用户指南
+tags: [快速开始, 配置]
 appendRawMarkdown: true
 tocType: flat
 translations: ['en']

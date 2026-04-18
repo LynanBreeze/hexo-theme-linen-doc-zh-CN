@@ -6,6 +6,7 @@ coverInfo:
   author: Markus Winkler
   url: https://unsplash.com/photos/a-wooden-block-spelling-subscribe-on-a-table-GdpDAj8unB4
 series: 用户指南
+tags: [快速开始, 配置]
 appendRawMarkdown: true
 tocType: flat
 translations: ['en']
