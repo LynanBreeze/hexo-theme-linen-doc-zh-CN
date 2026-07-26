@@ -15,6 +15,14 @@ customComments:
     index: 0
     comment: 看到悬浮文案了吗
 translations: ['en']
+copyright: true
+donates:
+  - type: wechat
+    qrcode: http://localhost:4000/hexo-theme-linen-doc-zh-CN/img/freestocks-VFs2fZEVkXo-unsplash.jpg
+sponsors:
+  - name: 我
+    amount: QQㄋㄟㄋㄟ好喝到咩噗茶
+    date: 2026-04-12 
 ---
 
 ## 封面信息
@@ -108,4 +116,31 @@ lazyload:
 
 ```yaml
 showRelated: false
+```
+
+## 版权信息
+
+当你想要在文章内容底部加一个版权信息提示，在文章的 Front Matter 中添加这个配置：
+
+```yaml
+copyright: true
+```
+
+## 赞赏二维码
+
+```
+donates:
+  - type: wechat
+    qrcode: https://r2-assets.thelynan.com/u/wx_qr-YaRvee.jpg
+```
+
+## 赞赏列表
+
+在文章的 Front Matter 中添加这个配置：
+
+```yaml
+sponsors:
+  - name: 我
+    amount: QQㄋㄟㄋㄟ好喝到咩噗茶
+    date: 2026-04-12 
 ```
