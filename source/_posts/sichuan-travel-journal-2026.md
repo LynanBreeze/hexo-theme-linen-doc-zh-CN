@@ -14,6 +14,7 @@ tocType: flat
 appendRawMarkdown: true
 showRelated: false
 copyright: true
+translations: ['en']
 ---
 
 <h2 id="to-page-top" style="opacity: 0; height: 0; margin: 0;">前言</h2>

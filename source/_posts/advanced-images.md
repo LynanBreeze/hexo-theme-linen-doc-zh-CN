@@ -12,6 +12,7 @@ appendRawMarkdown: true
 tocType: flat
 hdrSwitch: true
 hdrAssetsPrefix: hdr-demo/hdr
+translations: ['en']
 ---
 
 ## HDR / SDR 图片切换

@@ -10,6 +10,7 @@ coverInfo:
   url: https://unsplash.com/photos/CKlHKtCJZKk
 appendRawMarkdown: true
 ageWarning: true
+translations: ['en']
 ---
 
 ## 简介

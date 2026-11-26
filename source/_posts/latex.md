@@ -11,6 +11,7 @@ tags: [快速开始, 配置]
 appendRawMarkdown: true
 tocType: flat
 latex: true
+translations: ['en']
 ---
 
 ## 简介
