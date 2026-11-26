@@ -2,5 +2,11 @@
   "用户指南": {
     "noOrder": "asc",
     "mappingName": "User-Guide"
+  },
+  "旅行": {
+    "yearDivider": true,
+    "showMobileIndex": false,
+    "description": "放慢脚步，听风、看云，感受心与自然的轻柔碰触。",
+    "mappingName": "Travel"
   }
 }

@@ -90,13 +90,54 @@ _斜体文本_
 
 ## 代码块
 
-```json
+代码块自带一键复制按钮。
+
+```json example.json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
 ```
+
+### 折叠代码块
+
+对于较长的代码，可以在代码块标题（info string）中加入 `folded` 关键字，代码将默认折叠并显示展开/收起按钮：
+
+````markdown
+```javascript long-example.js folded
+// 代码内容...
+```
+````
+
+实际效果如下：
+
+```javascript long-example.js folded
+function greet(name) {
+  const greeting = `Hello, ${name}!`;
+  return greeting;
+}
+
+const users = ['Alice', 'Bob', 'Charlie'];
+users.forEach((user) => {
+  console.log(greet(user));
+});
+```
+
+## 折叠内容块
+
+主题对原生 HTML `<details>` / `<summary>` 做了样式美化，可用于折叠补充说明：
+
+<details>
+<summary>点击展开补充说明</summary>
+
+这里可以放置任意 Markdown 段落或说明内容，默认处于收起状态，避免干扰主线阅读。
+
+</details>
+
+## 数学公式
+
+主题内置了 KaTeX 服务端渲染支持，详见 [LaTeX 数学公式](/hexo-theme-linen-doc-zh-CN/latex/)。
 
 ## 任务列表
 
