@@ -6,6 +6,7 @@ tags: [示例, 排版]
 categories: 随笔
 appendRawMarkdown: true
 tocType: flat
+translations: ['en']
 ---
 
 并不是每篇文章都需要一张题图。对于技术笔记、读书随感或阶段性总结而言，省略 `cover` 与 `thumbnail` 反而能让页面更快进入阅读状态。
