@@ -23,3 +23,17 @@ topArticles:
 lazyload: 
   enable: true
 photoswipe: true
+comment:
+  enable: false
+  provider: giscus
+  repo: LynanBreeze/hexo-theme-linen-doc-zh-CN
+  repo_id: R_kgDORznx3A
+  category: Announcements
+  category_id: DIC_kwDORznx3M4DMESi
+  mapping: pathname
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: top
+  light_theme: light
+  dark_theme: dark_dimmed

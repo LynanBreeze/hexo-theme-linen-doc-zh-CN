@@ -159,12 +159,18 @@ readTime:
   count: false
 ```
 
-## 单篇文章关闭评论区
+## 单篇文章开启或关闭评论区
 
-如果站点已全局开启 Gitalk，可以在某篇文章中单独关闭评论区：
+如果站点已全局开启评论区（Giscus 或 Gitalk），可以在某篇文章中单独关闭：
 
 ```yaml
 comment: false
+```
+
+如果 `_config.linen.yml` 中设置了 `comment.enable: false`（默认关闭），也可以在单篇文章中按需开启：
+
+```yaml
+comment: true
 ```
 
 ## 页面级注入 `<head>` 内容
