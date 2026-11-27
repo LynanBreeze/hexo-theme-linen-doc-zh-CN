@@ -38,8 +38,8 @@ comment:
   reactions_enabled: "1"           # 可选，默认 "1"
   emit_metadata: "0"               # 可选，默认 "0"
   input_position: top              # 可选，默认 top（top | bottom）
-  light_theme: light               # 可选，浅色模式下的 Giscus 主题，默认 light
-  dark_theme: dark_dimmed          # 可选，深色模式下的 Giscus 主题，默认 dark_dimmed
+  light_theme: linen               # 可选，浅色模式下的 Giscus 主题，默认 linen（内置主题，支持自定义 CSS URL 或官方主题名）
+  dark_theme: linen                # 可选，深色模式下的 Giscus 主题，默认 linen（本地 HTTP 预览时会自动回退到 light / dark_dimmed）
   # theme: light                   # 可选，若设置固定主题则不再跟随深浅色切换
   # lang: zh-CN                    # 可选，默认跟随页面/站点语言
 ```

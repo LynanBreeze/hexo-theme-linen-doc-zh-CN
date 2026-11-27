@@ -35,5 +35,5 @@ comment:
   reactions_enabled: "1"
   emit_metadata: "0"
   input_position: top
-  light_theme: light
-  dark_theme: dark_dimmed
+  light_theme: linen
+  dark_theme: linen
