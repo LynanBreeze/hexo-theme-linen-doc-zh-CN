@@ -54,7 +54,7 @@ Linen 主题新增了图片容器，支持以下几种布局的图片排版。�
 :::image-grid scroll
 ![](/img/klara-kulikova-PgrSvkU1_4Y-unsplash.jpg)
 ![](/img/mariola-grobelska-rxFb6meV3ck-unsplash.jpg)
-![](/img/duy-le-duc-GUY2f9csQbc-unsplash.jpg)
+![](/img/pine-watt-2Hzmz15wGik-unsplash.jpg)
 :::
 
 ## 选项卡切换器（switcher）
@@ -69,7 +69,7 @@ Linen 主题新增了图片容器，支持以下几种布局的图片排版。�
 :::image-grid switcher
 ![方案一](/img/klara-kulikova-PgrSvkU1_4Y-unsplash.jpg)
 ![方案二](/img/mariola-grobelska-rxFb6meV3ck-unsplash.jpg)
-![方案三](/img/duy-le-duc-GUY2f9csQbc-unsplash.jpg)
+![方案三](/img/pine-watt-2Hzmz15wGik-unsplash.jpg)
 :::
 
 > 提示：普通 `:::image-grid` 不带额外类名时也支持 2～4 列自适应排版，且容器内除了图片外同样支持嵌套 `<iframe>`（例如实况照片）。
